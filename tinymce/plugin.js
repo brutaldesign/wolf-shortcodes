@@ -20,7 +20,7 @@
 					editor.execCommand( 'wolfPopup', false, { title: 'Buttons', identifier: 'button' } )
 				} },
 				{ text: 'Columns',onclick:function() {
-					editor.execCommand( 'wolfPopup', false, { title: 'Columns', identifier: 'column' } )
+					editor.execCommand( 'wolfPopup', false, { title: 'Columns', identifier: 'columns' } )
 				} },
 				{ text: 'Notifications',onclick:function() {
 					editor.execCommand( 'wolfPopup', false, { title: 'Notifications', identifier: 'notifications' } )

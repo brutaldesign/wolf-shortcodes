@@ -3,7 +3,7 @@
  * Plugin Name: Wolf Shortcodes
  * Plugin URI: http://wpwolf.com/plugin/wolf-shortcodes
  * Description: A Complete Shortcode Set : buttons, columns, tabs, accordion, toggles, notifications, hightlighted text, testimonials slider and google map.
- * Version: 1.5.0
+ * Version: 1.5.1
  * Author: WpWolf
  * Author URI: http://wpwolf.com/about
  * Requires at least: 3.5
@@ -42,7 +42,7 @@ if ( ! class_exists( 'Wolf_Shortcodes' ) ) {
 	 * Contains the main functions for Wolf_Shortcodes
 	 *
 	 * @class Wolf_Shortcodes
-	 * @version 1.5.0
+	 * @version 1.5.1
 	 * @since 1.0.0
 	 * @package WolfShortcodes
 	 * @author WpWolf
@@ -52,7 +52,7 @@ if ( ! class_exists( 'Wolf_Shortcodes' ) ) {
 		/**
 		 * @var string
 		 */
-		public $version = '1.5.0';
+		public $version = '1.5.1';
 
 		/**
 		 * @var string
